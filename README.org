@@ -4,7 +4,7 @@ REPL for user query.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/hyotang666/query-repl.git   |
-| commit  | {"messa  |
+| commit  | 44c68cb  |
 | systems | query-repl |
 |---------+-------------------------------------------|
 
