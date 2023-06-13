@@ -1,0 +1,10 @@
+* query-repl
+
+REPL for user query.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/query-repl.git   |
+| commit  | {"messa  |
+| systems | query-repl |
+|---------+-------------------------------------------|
+
